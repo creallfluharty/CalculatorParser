@@ -204,4 +204,4 @@ In addition to the textbook, I found the following resources helpful for wrappin
 - https://stackoverflow.com/a/20317336/11411686
 - http://ll1academy.cs.ucla.edu/tutorial
 
-And, of course, I extensively used the excellent [Racket documentation](https://docs.racket-lang.org).
+And, of course, I used the excellent [Racket documentation](https://docs.racket-lang.org) extensively.
