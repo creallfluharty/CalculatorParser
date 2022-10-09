@@ -5,7 +5,7 @@ Disclaimer: This is my first project using Racket, viewer discretion is advised.
 
 ## Usage Instructions
 
-`main.rkt` provides a `parse` function which accepts the path of a file to parse. See [Tests](Tests) for usage examples.
+`main.rkt` provides a `parse` function which accepts the path of a file to parse. See [Tests](#tests) for usage examples.
 
 ## Tests
 Adding the following code
