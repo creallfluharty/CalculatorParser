@@ -1,5 +1,5 @@
 ## About
-This project implements a parser for the calculator language described in Chapter 3 of the Fourth Edition of Michael L. Scott's *Programming Language Pragmatics*. It's is adapted primarily from the pseudocode included in figure 2.17.
+This project implements a parser for the calculator language described in Chapter 3 of the Fourth Edition of Michael L. Scott's _Programming Language Pragmatics_. It's is adapted primarily from the pseudocode included in figure 2.17.
 
 Disclaimer: This is my first project using Racket, viewer discretion is advised.
 
@@ -203,5 +203,7 @@ Parse tree is as follows:
 In addition to the textbook, I found the following resources helpful for wrapping my head around recursive-descent parsing:
 - https://stackoverflow.com/a/20317336/11411686
 - http://ll1academy.cs.ucla.edu/tutorial
+
+For the lexer, Matt Might's article [_Lexical Analysis in Racket_](https://matt.might.net/articles/lexers-in-racket/) was very helpful for getting started with Racket's `parser-tools` library.
 
 And, of course, I used the excellent [Racket documentation](https://docs.racket-lang.org) extensively.
