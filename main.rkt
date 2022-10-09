@@ -12,8 +12,3 @@
   (pretty-print parse-tree))
 
 (provide parse)
-
-
-(for/list ([file-path (directory-list "provided-tests" #:build? #t)])
-  (with-handlers ([exn:fail? (lambda (err) (displayln (exn-message err)))])
-    (parse file-path)))
